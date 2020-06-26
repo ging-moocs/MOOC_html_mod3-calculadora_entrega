@@ -5,7 +5,7 @@
 <br/><br/><br/>
 
 
-Módulo 3: Expresiones, variables, funciones, objetos, sentencias, DOM y Arrays - Entrega P2P: Calculadora
+# Módulo 3: Expresiones, variables, funciones, objetos, sentencias, DOM y Arrays - Entrega P2P: Calculadora
 
 Versión: 27 de Junio de 2020
 
@@ -113,3 +113,12 @@ $ npx moocauto                 ## Pasa los tests al fichero a entregar
 ```
 
 Se puede pasar la herramienta de autocorrección tantas veces como se desee.
+
+A la hora de evaluar, el evaluador tendrá que seguir los siguientes criterios:
+
+RÚBRICA: Se puntuará el ejercicio a corregir sumando el % indicado a la nota total si la parte indicada es correcta:
+* 10%: Campo informativo
+* 10%: Operaciones unitarias
+* 30%: Operaciones binarias 
+* 30%: Operaciones en formato CSV
+* 20%: Tratamiento de errores
