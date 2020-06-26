@@ -32,7 +32,7 @@ function assign(){
  }
 
 //TESTS
-describe("TEST SUITE DE LA Calculadora DE CORE", function () {
+describe("Calculadora", function () {
   describe('COMPROBACIONES PREVIAS', function() {
     this.timeout(T_TEST * 1000);
 
