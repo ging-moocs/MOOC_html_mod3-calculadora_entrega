@@ -114,7 +114,19 @@ $ npx moocauto                 ## Pasa los tests al fichero a entregar
 
 Se puede pasar la herramienta de autocorrección tantas veces como se desee.
 
-A la hora de evaluar, el evaluador tendrá que seguir los siguientes criterios:
+## Entrega de la práctica
+
+El alumno debe subir un fichero comprimido ZIP incluyendo todos los ficheros de la práctica.
+
+## Evaluación de la práctica
+
+La evaluación de la práctica se realizará mediante revisión por pares (P2P). Cada alumno tendrá que revisar la práctica de 3 de sus compañeros y otros 3 revisarán la suya. Se puede utilizar la herramienta de autocorrección (moocauto) como ayuda para revisar la práctica de los compañeros.
+
+El objetivo de este curso es sacar el máximo provecho al trabajo que están dedicando, por lo que les recomendamos que utilicen la evaluación para ayudar a sus compañeros enviando comentarios sobre la corrección del código, su claridad, legibilidad, estructuración y documentación. 
+
+Dado que es un curso para principiantes, ante la duda les pedimos que sean benevolentes con sus compañeros, porque muchos participantes están empezando y los primeros pasos siempre son difíciles.
+
+**OJO! Una vez enviada la evaluación, está no se puede cambiar.** Piensen bien su evaluación antes de enviarla.
 
 RÚBRICA: Se puntuará el ejercicio a corregir sumando el % indicado a la nota total si la parte indicada es correcta:
 * 10%: Campo informativo
@@ -122,3 +134,4 @@ RÚBRICA: Se puntuará el ejercicio a corregir sumando el % indicado a la nota t
 * 30%: Operaciones binarias 
 * 30%: Operaciones en formato CSV
 * 20%: Tratamiento de errores
+
