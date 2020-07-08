@@ -117,6 +117,8 @@ Se puede pasar la herramienta de autocorrección tantas veces como se desee.
 ## Entrega de la práctica
 
 El alumno debe subir un fichero comprimido ZIP incluyendo todos los ficheros de la práctica.
+Recuerde borrar el directorio node_modules antes de hacer el ZIP si ha instalado el moocauto sin la opción -g, ya que ese directorio no es necesario en la entrega.
+
 
 ## Evaluación de la práctica
 
