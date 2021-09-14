@@ -7,7 +7,7 @@
 
 # Módulo 3: Expresiones, variables, funciones, objetos, sentencias, DOM y Arrays - Entrega P2P: Calculadora
 
-Versión: 27 de Junio de 2020
+Versión: 14 de septiembre de 2021
 
 ## Objetivo
 
