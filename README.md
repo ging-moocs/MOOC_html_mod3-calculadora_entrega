@@ -23,9 +23,7 @@ En esta entrega vamos a desarrollar una aplicación web de calculadora. Para com
 
 ## Descargar el código del proyecto
 
-El proyecto se descarga en el ordenador local con estos comandos:
-
-El proyecto debe clonarse en el ordenador desde el que se está trabajando
+El proyecto debe descargarse o clonarse en el ordenador desde el que se está trabajando. Para ello podemos descargar el paquete zip con el código desde el desplegable verde que está en la parte superior de la página de GitHub y que indica "Code" y ahí seleccionar la opción "Download ZIP". Alternativamente se puede usar GIT si se conoce para clonar el proyecto, el comando sería el siguiente: 
 
 ```
 $ git clone https://github.com/ging-moocs/MOOC_html_mod3-calculadora_entrega
