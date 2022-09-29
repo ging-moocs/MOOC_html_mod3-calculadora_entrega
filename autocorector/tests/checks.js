@@ -1,6 +1,6 @@
 // IMPORTS
 const path = require('path');
-const Utils = require('./testutils');
+const Utils = require('../utils/testutils');
 
 // CRITICAL ERRORS
 let error_critical = null;
@@ -8,7 +8,7 @@ let error_critical = null;
 // CONSTANTS
 const T_TEST = 2 * 60; // Time between tests (seconds)
 const browser = new Browser({waitDuration: 100, silent: true});
-const path_assignment = path.resolve(path.join(__dirname, "../index.html"));
+const path_assignment = path.resolve(path.join(__dirname, "../../index.html"));
 const URL = "file://" + path_assignment.replace("%", "%25");
 
 function assign(){
