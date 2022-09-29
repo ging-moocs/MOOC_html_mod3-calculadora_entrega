@@ -7,9 +7,9 @@
         "githubURL": "ging-moocs/MOOC_html_mod3-calculadora_entrega",
         "serverUrl": "https://moocbot.dit.upm.es/",
         "courseId": "1260",
-        "assignmentId": "599"
+        "assignmentId": "524"
     },
     "dependencies": {
-        "autocorector": "^3.1.2"
+        "autocorector": "^3.1.3"
     }
 }
