@@ -106,12 +106,10 @@ Se puede pasar la herramienta de autoorrección tantas veces como se desee sin n
 
 ## Instrucciones para la Entrega y Evaluación.
 
-Una vez satisfecho con su calificación, el alumno puede subir su entrega a MiriadaX con el siguiente comando:
+Una vez satisfecho con su calificación, el alumno puede subir su entrega con el siguiente comando:
 ```
 $ npx autocorector --upload
 ```
-
-La herramienta de autocorrección preguntará por el correo del alumno y el token de MiriadaX. En [este enlace](https://docs.google.com/presentation/d/e/2PACX-1vRYA9npW0Xg_c6_SWg2jAU7L2ti83-GY1VYKTzM1U5AgsW-0BC3xbwi__gsrsZ50Md0ja2HyadNzEPn/pub?start=false&loop=false&delayms=5000) se proveen instrucciones para encontrar dicho token.
 
 
 **RÚBRICA**: Se puntuará el ejercicio a corregir sumando el % indicado a la nota total si la parte indicada es correcta:
